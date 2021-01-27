@@ -21,16 +21,12 @@ int main()
 
   double meal_tax = meal_price * meal_tax_percent;
   double meal_tip = meal_tax * meal_tip_percent;
-  double meal_total = meal_tip + meal_tax+meal_tip;
+  double meal_total = meal_tip + meal_tax + meal_tip_percent;
 
   cout<< "Meal cost: $ " << meal_price <<endl;
   cout << "Tax amount: $ "<< meal_tax <<endl;
-  cout << "tip amount: $ " << meal tip<<endl; 
-  cout<< "Meal total : $" <<meal_total << endl; 
+  cout << "tip amount: $ " << meal_tip<<endl; 
+  cout<< "Meal total : $" << meal_total << endl; 
 
-  return 0
-
-
-
-
+  return 0;
 }
