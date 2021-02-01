@@ -15,6 +15,9 @@
 // Total wages = regular wages + overtime wages
 // Display the total wages
 
+// Joshua Stallard
+
+
 #include <iostream>
 using namespace std;
 
