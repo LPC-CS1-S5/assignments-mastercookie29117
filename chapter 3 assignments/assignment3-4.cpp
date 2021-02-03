@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-  int month_1
-  int month_2
-  int month_3
+  char month_1
+  char month_2
+  char month_3
 
   float mon1_rain
   float mon2_rain

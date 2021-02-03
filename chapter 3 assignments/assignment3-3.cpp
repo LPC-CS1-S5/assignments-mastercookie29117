@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-  double celsius;
-  double fahrenhiet;
+  float celsius;
+  float fahrenhiet;
 
   cout << "Enter the tempreature in Celsius" << endl;
   cin >> celsius;
