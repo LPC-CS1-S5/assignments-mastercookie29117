@@ -29,3 +29,7 @@ int main()
 
  
 }
+
+// Usually, the functions shoud be declared outside of main function
+
+// Your functions are not called in main.

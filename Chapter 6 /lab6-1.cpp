@@ -2,7 +2,7 @@
 
 using namespace std;
 
-bool input validate(int, int)
+bool input validate(int, int) // remove the space in function name
 void getlistprime(int, int)
 
 int main()
@@ -16,3 +16,5 @@ int main()
 
   getlistprime(num1, num2);
 }
+
+// Need to implement the functions "inputvalidate()" and "getlistprime()"
