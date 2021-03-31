@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include <string>
 
 using namespace std;
 
@@ -12,7 +13,23 @@ int maim()
 
 
   //Write each students records.
+  outputFile << "James"<< name1;
+  outputFile << "Orlando" << name2;
+  outputFile << "Tim"<< name3;
+  outputFile << "Maxim" << name4;
+  outputFile << "Will" << name5;
+  outputFile << "Jason" << name6;
+  outputFile << "David" << name7;
+  outputFile << "Bill"<< name8;
+  outputFile << "Carmen" << name9;
+  outputFile << "Chris" << name10;
 
-  outputFile << "James
+  outputFile << "100" << score1 << "100" << score2;
+
+  outputFile << "95" << score3 << "90" << score4;
+
+  outputFile << "100" << score5 << "90" << score6; 
+
+  outputFile
 
 }
